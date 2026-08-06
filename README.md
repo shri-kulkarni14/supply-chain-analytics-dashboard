@@ -22,7 +22,7 @@ This enterprise-grade Supply Chain Analytics solution provides end-to-end visibi
 ### Page 1: Executive Supply Chain Command Center
 Focus: Revenue performance, category profitability, demographic demand distribution, and top-performing SKUs.
 
-![Executive Supply Chain Command Center](images\page_1_executive_financial_&_sales_overview.jpg)
+![Executive Supply Chain Command Center](images/page_1_executive_financial_&_sales_overview.jpg)
 
 #### Key Insights & Findings:
 1. **Skincare Dominance:** Skincare is the core revenue driver, contributing **₹242K (41.9%)** in revenue across **20K+ units sold**, outperforming Haircare (₹174K) and Cosmetics (₹162K).
@@ -45,7 +45,7 @@ Focus: Transit time optimization, transport modal selection, carrier performance
 ### Page 3: Supplier Quality & Risk Management Console
 Focus: Defect rates, quality control pass/fail ratios, stockout risk distribution, and supplier unit economics.
 
-![Supplier Quality & Risk Management Console](page_3_supplier_quality_&_risk_assessment.png)
+![Supplier Quality & Risk Management Console](images/page_3_supplier_quality_&_risk_assessment.png)
 
 #### Key Insights & Findings:
 1. **Critical Quality Bottleneck:** 36 total inspection failures were recorded across all suppliers, with **Supplier 4 failing 2 out of 3 SKU inspections**.
