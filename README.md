@@ -22,7 +22,7 @@ This enterprise-grade Supply Chain Analytics solution provides end-to-end visibi
 ### Page 1: Executive Supply Chain Command Center
 Focus: Revenue performance, category profitability, demographic demand distribution, and top-performing SKUs.
 
-![Executive Supply Chain Command Center](page_1_executive_financial_&_sales_overview.jpg)
+![Executive Supply Chain Command Center](images\page_1_executive_financial_&_sales_overview.jpg)
 
 #### Key Insights & Findings:
 1. **Skincare Dominance:** Skincare is the core revenue driver, contributing **₹242K (41.9%)** in revenue across **20K+ units sold**, outperforming Haircare (₹174K) and Cosmetics (₹162K).
@@ -33,7 +33,7 @@ Focus: Revenue performance, category profitability, demographic demand distribut
 ### Page 2: Logistics & Operations Efficiency Dashboard
 Focus: Transit time optimization, transport modal selection, carrier performance, and supplier lead-time breakdown.
 
-![Logistics & Operations Efficiency Dashboard](page_2_supply_chain_&_logistics_efficiency.png)
+![Logistics & Operations Efficiency Dashboard](images/page_2_supply_chain_&_logistics_efficiency.png)
 
 #### Key Insights & Findings:
 1. **Sea vs. Air Freight Cost Arbitrage:** Sea freight delivers optimal cost efficiency at **₹4.97 per unit** compared to **₹6.02 per unit** for Air freight (yeilding **17.4% unit cost savings**) with minimal delivery trade-offs for non-urgent shipments.
@@ -73,3 +73,5 @@ Focus: Defect rates, quality control pass/fail ratios, stockout risk distributio
 
 ---
 
+## Author
+Shridevi Kulkarni -[LinkedIn](https://www.linkedin.com/in/shridevi-kulkarni-data-analyst) - shrikulkarni142001@gmail.com
