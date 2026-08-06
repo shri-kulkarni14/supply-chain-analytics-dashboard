@@ -45,7 +45,7 @@ Focus: Transit time optimization, transport modal selection, carrier performance
 ### Page 3: Supplier Quality & Risk Management Console
 Focus: Defect rates, quality control pass/fail ratios, stockout risk distribution, and supplier unit economics.
 
-![Supplier Quality & Risk Management Console](images/page_3_supplier_quality_&_risk_ assessment.png) 
+![Supplier Quality & Risk Management Console](images/page_3_supplier_quality_&_risk_assessment.png) 
 
 #### Key Insights & Findings:
 1. **Critical Quality Bottleneck:** 36 total inspection failures were recorded across all suppliers, with **Supplier 4 failing 2 out of 3 SKU inspections**.
