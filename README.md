@@ -22,7 +22,7 @@ This enterprise-grade Supply Chain Analytics solution provides end-to-end visibi
 ### Page 1: Executive Supply Chain Command Center
 Focus: Revenue performance, category profitability, demographic demand distribution, and top-performing SKUs.
 
-![Executive Supply Chain Command Center](images/page_1_executive_financial_&_sales_overview.jpg)
+![Executive Supply Chain Command Center](images/page_1_executive_financial_&_sales_overview.png)
 
 #### Key Insights & Findings:
 1. **Skincare Dominance:** Skincare is the core revenue driver, contributing **₹242K (41.9%)** in revenue across **20K+ units sold**, outperforming Haircare (₹174K) and Cosmetics (₹162K).
